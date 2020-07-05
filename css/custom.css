@@ -144,6 +144,35 @@
     padding: 15px 0px 15px 0px;
   }
 }
+/* added media query for the signuphere button overlapping to worshop schedule  */
+@media screen and (min-width: 375px) and (max-width: 812px)
+{
+.btn{
+  margin-bottom: 15px;
+
+}
+
+}
+@media screen and (min-width: 360px) and (max-width: 640px)
+{
+.btn{
+  margin-bottom: 15px;
+
+}
+
+}
+@media screen and (min-width: 320px) and (max-width: 568px)
+{
+.btn{
+  margin-bottom: 15px;
+
+}
+
+}
+
+
+
+
 /*css classes for hiding and showing Donation and regular supporter parts in donate.html*/
 .appear{
   display: block;
