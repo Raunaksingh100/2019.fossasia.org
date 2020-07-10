@@ -144,12 +144,10 @@
     padding: 15px 0px 15px 0px;
   }
 }
-/* added media query for the signuphere button overlapping to worshop schedule  */
 @media screen and (min-width: 375px) and (max-width: 812px)
 {
 .btn{
   margin-bottom: 15px;
-
 }
 
 }
@@ -157,17 +155,13 @@
 {
 .btn{
   margin-bottom: 15px;
-
 }
-
 }
 @media screen and (min-width: 320px) and (max-width: 568px)
 {
 .btn{
   margin-bottom: 15px;
-
 }
-
 }
 
 
