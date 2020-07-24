@@ -215,3 +215,18 @@
 #myBtn:hover {
     background-color: transparent;
 }
+
+@media screen and (min-width: 375px) and (max-width: 812px)
+{
+  .call-to-action a i {
+  margin-top: 10px;
+}
+}
+
+@media screen and (min-width: 320px) and (max-width: 568px)
+{
+  .call-to-action a i {
+  margin-top: 10px;
+}
+}
+
